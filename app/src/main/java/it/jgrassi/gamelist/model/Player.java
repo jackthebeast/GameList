@@ -13,5 +13,6 @@ public class Player implements Serializable {
     public String name;
     public int balance;
     public String avatarLink;
-    public Date lastLogindate;
+    public String lastLogindate;
+
 }
